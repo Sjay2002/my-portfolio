@@ -36,7 +36,7 @@
             <!-- <p class="hero-subtitle">Full-Stack Developer</p> -->
             <!-- tagline separated so we can style it with a different font -->
             <p class="hero-tagline">Aspiring Software Engineer | Full-Stack Developer | Cloud Enthusiast</p>
-            <p class="hero-lead">I’m a dreamer, builder, and lifelong learner exploring the world of technology. As an undergraduate at the University of Moratuwa, I love bringing ideas to life through creativity and logic. I believe every project is a chance to grow, inspire, and make something meaningful ;because great things start with curiosity.</p>
+            <p class="hero-lead">I’m a third-year IT undergraduate at the University of Moratuwa with a passion for creating efficient, scalable, and user-focused software solutions that drive real impact.</p>
 
             <div class="hero-ctas">
               <div class="cta-buttons">
@@ -115,9 +115,7 @@
             <div class="about-card-body">
               <p>
                 
-              </p>
-I’m an enthusiastic software engineering undergraduate at the University of Moratuwa with a strong interest in full-stack development. I enjoy building intuitive and scalable web applications using technologies such as React.js, Node.js, and Express. Through academic projects and self-driven learning, I’ve developed a solid understanding of both frontend and backend development practices. I’m eager to apply my technical skills, creativity, and problem-solving mindset to real-world projects and continue growing as a developer in dynamic, collaborative environments.
-              <p>
+              </p>I’m a dreamer, builder, and lifelong learner exploring the world of technology. As an undergraduate at the University of Moratuwa, I love bringing ideas to life through creativity and logic.<p>
                 I enjoy collaborating with teams to deliver high-quality software solutions while embracing creativity and innovation. Passionate about continuous learning, I explore new technologies and best practices to sharpen my skills and make a meaningful impact through technology.
               </p>
             </div>
