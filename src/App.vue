@@ -36,7 +36,7 @@
             <!-- <p class="hero-subtitle">Full-Stack Developer</p> -->
             <!-- tagline separated so we can style it with a different font -->
             <p class="hero-tagline">Aspiring Software Engineer | Full-Stack Developer | Cloud Enthusiast</p>
-            <p class="hero-lead">I’m a third-year IT undergraduate at the University of Moratuwa with a passion for creating efficient, scalable, and user-focused software solutions that drive real impact.</p>
+            <p class="hero-lead">I’m a dreamer, builder, and lifelong learner exploring the world of technology. As an undergraduate at the University of Moratuwa, I love bringing ideas to life through creativity and logic. I believe every project is a chance to grow, inspire, and make something meaningful ;because great things start with curiosity.</p>
 
             <div class="hero-ctas">
               <div class="cta-buttons">
