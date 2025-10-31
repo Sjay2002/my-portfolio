@@ -884,8 +884,11 @@ if (education && education.value && Array.isArray(education.value)) {
 <style scoped>
 .portfolio-app {
   /* single global gradient background for the entire site (user requested) */
-  background: linear-gradient(135deg, #1d010fff 0%, #0b2030 1import logoSchool from './assets/School.png'
-icon boxes */
+  background: linear-gradient(135deg, #1d010fff 0%, #0b2030 100%);
+  background-attachment: fixed;
+  color: #ffffff;
+  /* lighter accent used for icon boxes (overrides only icon-related UI) */
+  --icon-accent: #66d6d4; /* lighter teal for icon boxes */
   --icon-accent-rgb: 102,214,212;
 }
 
