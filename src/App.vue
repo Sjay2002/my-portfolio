@@ -114,9 +114,9 @@
             <h3 class="about-card-title">Profile</h3>
             <div class="about-card-body">
               <p>
-                I'm a passionate software engineer with a strong foundation in full-stack development. Currently pursuing my degree at the University of Moratuwa, I've gained practical experience through internships and personal projects. My expertise spans frontend technologies like React.js and backend development with Node.js and Express.
+                
               </p>
-
+I’m an enthusiastic software engineering undergraduate at the University of Moratuwa with a strong interest in full-stack development. I enjoy building intuitive and scalable web applications using technologies such as React.js, Node.js, and Express. Through academic projects and self-driven learning, I’ve developed a solid understanding of both frontend and backend development practices. I’m eager to apply my technical skills, creativity, and problem-solving mindset to real-world projects and continue growing as a developer in dynamic, collaborative environments.
               <p>
                 I enjoy collaborating with teams to deliver high-quality software solutions while embracing creativity and innovation. Passionate about continuous learning, I explore new technologies and best practices to sharpen my skills and make a meaningful impact through technology.
               </p>
