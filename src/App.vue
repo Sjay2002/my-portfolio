@@ -865,7 +865,8 @@ function sendEmail() {
 }
 
 // import institute logos placed in src/assets
-import logoSchool from './assets/school.png'
+// Note: filename is `School.png` in the repo (case-sensitive). Use exact filename so production builds on Linux (Vercel) succeed.
+import logoSchool from './assets/School.png'
 import logoUOM from './assets/uom.png'
 import logoNIBM from './assets/NIBM.png'
 
