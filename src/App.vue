@@ -865,7 +865,8 @@ function sendEmail() {
 }
 
 // import institute logos placed in src/assets
-import logoSchool from './assets/school.png'
+// filename on disk is `School.png` (capital S). Use exact filename for case-sensitive filesystems (Vercel/Linux).
+import logoSchool from './assets/School.png'
 import logoUOM from './assets/uom.png'
 import logoNIBM from './assets/NIBM.png'
 
